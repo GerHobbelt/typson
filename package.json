@@ -49,7 +49,7 @@
   "dependencies": {
     "underscore": "1.5.x",
     "q": "0.9.x",
-    "superagent": "0.15.x",
+    "superagent": "3.6.1",
     "requirejs": "2.1.x",
     "traverse": "0.6.x"
   },
