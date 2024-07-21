@@ -50,7 +50,7 @@
     "underscore": "1.5.x",
     "q": "0.9.x",
     "superagent": "0.15.x",
-    "requirejs": "2.1.x",
+    "requirejs": "2.3.7",
     "traverse": "0.6.x"
   },
   "devDependencies": {
